@@ -1,0 +1,51 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "LUCÍA MONZÓN"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Título"
+    },
+    {
+      "to": "services",
+      "text": "Inicio"
+    },
+    {
+      "to": "skills",
+      "text": "Historia"
+    },
+    {
+      "to": "portfolio",
+      "text": "Arte y artista"
+    },
+    {
+      "to": "blog",
+      "text": "Educación"
+    },
+    {
+      "to": "about",
+      "text": "Problematicas"
+    },
+    {
+      "to": "contact",
+      "text": "Testimonio"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "https://twitter.com/lum0nz",
+      "text": "TW."
+    },
+    {
+      "to": "https://www.instagram.com/enterar.te?igsh=cDhkeTRuNWtjYml4",
+      "text": "IN."
+    },
+    {
+      "to": "https://substack.com/profile/148229974-lucia-monzon?utm_source=user-menu",
+      "text": "SU."
+    }
+  ]
+}
